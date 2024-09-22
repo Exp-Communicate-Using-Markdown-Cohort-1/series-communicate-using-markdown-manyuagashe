@@ -12,3 +12,7 @@
 print("this is a portion of a code example")
 
 ```
+
+- [ ] Do 290 assignment
+- [ ] Do 210 Assignment
+- [ ] Do 435 assignment
